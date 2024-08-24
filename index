@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initialscale=1.0">
+<title>Мой первый сайт</title>
+</head>
+<body>
+<h1>Добро пожаловать на мой первый сайт!</h1>
+<p>Этот сайт размещен с использованием GitHub Pages.</p>
+</body>
+</html>
